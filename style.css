@@ -1,0 +1,149 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.2rem;
+    line-height: 1.65;
+}
+
+header{
+    text-align: center;
+    background-image:url(banner.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 40rem;
+}
+
+img { display:block; 
+    margin: auto;
+    padding-top: 7%;
+    
+}
+
+header div{
+    background-color: black;
+    padding-bottom: 7%;
+}
+
+header p{
+    padding: 2rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h1{
+    font-size: 2rem;
+    line-height: 30px;
+    padding-top: 3rem; 
+}
+
+button{
+   background-color: rgb(240, 76, 47);
+   border-radius: 10px;
+   font-family:'Montserrat', sans-serif;
+   margin-bottom: 5rem;
+   
+   color: white;
+   border: none;
+   padding: 10px;
+  
+}
+h1,h3{
+    color: rgb(37, 162, 195);
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h3{
+padding-top: 1.5rem;
+}
+
+p{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#notebook img{
+    border-radius: 50%;
+    padding-bottom: 2rem;
+}
+
+aside{
+    background-color: rgb(226, 45, 3);
+    color: white;
+    text-align: center;
+}
+aside h2{
+    font-size: 2rem;
+    margin-bottom:5% ;
+    margin-top: 10%;
+    padding-top: 8%
+}
+aside p{
+    padding-top: 5%;
+    
+}
+
+cite{
+    font-style: italic;
+}
+.ceo{
+    font-size: 70%;
+    padding-bottom: 2rem;
+    padding-top: 0;
+}
+div{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    color: white;
+}
+footer{
+    background-color: rgb(37, 162, 195);
+    color: white;
+}
+
+footer p{
+    text-decoration: none;
+}
+
+footer h2{
+    font-size: 2rem;
+}
+
+footer p {
+    padding: 0px;
+}
+ footer p a {
+    color: white;
+}
+
+hr{
+    width: 50%;
+    
+}
+
+#last{
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+}
+:last-of-type h2{
+    padding-top: 2rem;
+}
+div{
+    border-width: 1px red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
